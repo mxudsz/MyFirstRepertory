@@ -1,5 +1,8 @@
 hi
 hello
+<<<<<<< HEAD
 add Mybranch
 add master
 add master
+=======
+>>>>>>> mybranch
